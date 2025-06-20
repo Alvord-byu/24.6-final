@@ -66,13 +66,13 @@
 
   <h2>Comic-Con Culture</h2>
 
-  <p>Over the years, attendance at the San Diego Comic-Con has increased significantly.</p>
-
   <p>Sometimes it brings in hundreds of thousands more than can even attend the conference and participate in what are called off-sites, which are typically free to go to and will give out free swag to visitors.</p>
 
   <p>Here you can see the local news coverage from last year.</p>
 
 [![Thousands of fans begin to arrive in Downtown San Diego](https://img.youtube.com/vi/1R2ZNu97vIk/0.jpg)](https://www.youtube.com/watch?v=1R2ZNu97vIk)
+
+  <p>Over the years, attendance at the San Diego Comic-Con has increased significantly. It is not hard to see why, as our popular culture, in movies, books, and on TV, has increasingly focused on comic book characters and stories. This amazing chart by Gursevak Ajay Singh Dhanda breaks down this popularity.</p>
 
 </body>
 </html>

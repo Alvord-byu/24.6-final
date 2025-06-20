@@ -49,5 +49,9 @@
 
   <p>Sometimes it brings in hundreds of thousands more than can even attend the conference and participate in what are called off-sites, which are typically free to go to and will give out free swag to visitors.</p>
 
+  <p>Here you can see the local news coverage from last year.</p>
+
+[![Thousands of fans begin to arrive in Downtown San Diego](https://img.youtube.com/vi/1R2ZNu97vIk/0.jpg)](https://www.youtube.com/watch?v=1R2ZNu97vIk)
+
 </body>
 </html>

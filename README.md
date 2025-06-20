@@ -1,39 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Comic-Con Anniversary Reflection</title>
-  <style>
-    body {
-      background-color: #000;
-      color: #fff;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-    }
-    h1, h2 {
-      color: #fff;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #fff;
-      padding: 12px;
-      text-align: left;
-    }
-    th {
-      background-color: #222;
-    }
-    td {
-      background-color: #111;
-    }
-  </style>
-</head>
-<body>
-
   <h1>Comic-Con Anniversary Reflection</h1>
 
   <p>This July will mark a very important anniversary for me. This marks my tenth consecutive year attending the San Diego Comic-Con. I feel fortunate to have been able to attend so many with my family. This event has not only been fun but also helped shape me to who I am today.</p>

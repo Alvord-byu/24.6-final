@@ -43,6 +43,27 @@
     </tbody>
   </table>
 
+  2015
+  ![Image](https://github.com/user-attachments/assets/d1c0e5f1-a15f-42ad-9c0b-0adb446457c7)
+
+  2016
+![Image](https://github.com/user-attachments/assets/ca14e0cc-c804-4737-94bf-c8cdc804351d)
+
+  2017
+![Image](https://github.com/user-attachments/assets/894bcf71-db66-4810-808d-41c55fac0680)
+
+  2019
+![Image](https://github.com/user-attachments/assets/e62697e5-2bdc-4644-b311-1868b4559ffb)
+
+  2022
+![Image](https://github.com/user-attachments/assets/ecd78bea-386a-43e0-bf2a-159ee729c7e6)
+
+  2023
+![Image](https://github.com/user-attachments/assets/3370c080-43bc-4969-bb32-a7619f838694)
+
+  2024
+  ![Image](https://github.com/user-attachments/assets/6550cbfc-bd2b-4f0a-9fcc-a9e50bf71105)
+
   <h2>Comic-Con Culture</h2>
 
   <p>Over the years, attendance at the San Diego Comic-Con has increased significantly.</p>

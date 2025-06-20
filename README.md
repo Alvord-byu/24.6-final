@@ -54,7 +54,7 @@
       <img src="IMG_3724.jpg" alt="Comic-Con 2023 - Star Wars Booth with Darth Vader and Leia">
     </li>
     <li><strong>2024</strong><br>
-      <img src="" alt="Comic-Con 2024 - Voltron Display and Attendee">
+      <img src="![Image](https://github.com/user-attachments/assets/d643ee17-f636-4912-9f41-782747f7fc0a)" alt="Comic-Con 2024 - Voltron Display and Attendee">
     </li>
   </ul>
 
